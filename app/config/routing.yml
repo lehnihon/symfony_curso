@@ -1,0 +1,4 @@
+son_user:
+    resource: "@SONUserBundle/Controller"
+    prefix:   /
+    type: annotation

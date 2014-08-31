@@ -1,0 +1,7 @@
+parameters:
+#    son_user.example.class: SON\UserBundle\Example
+
+services:
+#    son_user.example:
+#        class: %son_user.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
